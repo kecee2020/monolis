@@ -2,7 +2,7 @@
   <head>
     <title>Kazeem_java_project</title>
   </head>
-  <body bgcolor="#0000FF">
+  <body bgcolor="##FFFF00">
     <h1>Devops engineer, Testing, Deployment and Monitoring. I like terraform and jenkins </h1>
     <!--Form declaration. Must have an action attribute -->
         <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
