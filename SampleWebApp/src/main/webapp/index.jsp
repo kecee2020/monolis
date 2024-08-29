@@ -10,7 +10,7 @@
             <textarea name="comments" cols="30" rows="5"></textarea>
 
             <p>what its your favourite tv station <br /> <!--Radion control. only one selection possible-->
-                <input type ="radio" name="genre" value="linux server" checked="checked"/>DevOps <br />
+                <input type ="radio" name="genre" value="linux server" checked="checked"/>ChannelsTV <br />
                 <input type ="radio" name="genre" value="cnn"/>Cnn <br />
                 <input type ="radio" name="genre" value="fox"/>Fox <br />
                 <input type ="radio" name="genre" value="nbc"/>Nbc <br />
