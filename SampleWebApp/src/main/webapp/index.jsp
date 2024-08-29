@@ -2,35 +2,35 @@
   <head>
     <title>Kazeem_java_project</title>
   </head>
-  <body bgcolor="#7FFF00">
-    <h1>Devops engineer in embryo, practing and training . I like terraform, github and jenkins </h1>
+  <body bgcolor="#0000FF">
+    <h1>Devops engineer, Testing, Deployment and Monitoring. I like terraform and jenkins </h1>
     <!--Form declaration. Must have an action attribute -->
         <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
-            <p>Tell me what you understand by CI/CD pipeline and relate it to DevOps </p> <!--This control is for mutplie line comment-->
+            <p> Provision of Infrastructure using Terraform as infrascture as code & Deployment of app </p> <!--This control is for mutplie line comment-->
             <textarea name="comments" cols="30" rows="5"></textarea>
 
-            <p>pick your favorite class module in cloud_convo academy <br /> <!--Radion control. only one selection possible-->
+            <p>what its your favourite tv station <br /> <!--Radion control. only one selection possible-->
                 <input type ="radio" name="genre" value="linux server" checked="checked"/>DevOps <br />
-                <input type ="radio" name="genre" value="cloud"/>cloud <br />
-                <input type ="radio" name="genre" value="DevOps"/>DevOps <br />
-                <input type ="radio" name="genre" value="Python"/>Python <br />
+                <input type ="radio" name="genre" value="cnn"/>Cnn <br />
+                <input type ="radio" name="genre" value="fox"/>Fox <br />
+                <input type ="radio" name="genre" value="nbc"/>Nbc <br />
             </p>
 
-            <p>select your favourite music service <br /> <!--Checkbox control-->
-                <input type ="Checkbox" name="service" value="iTunes"/>iTunes <br />
-                <input type ="Checkbox" name="service" value="Sportify"/>Sportify <br />
-                <input type ="Checkbox" name="service" value="Pandora"/>Pandora <br />
-                <input type ="Checkbox" name="service" value="FishFM"/>Fish FM <br />
+            <p>select your favourite football club <br /> <!--Checkbox control-->
+                <input type ="Checkbox" name="service" value="liverpool"/>Liverpool <br />
+                <input type ="Checkbox" name="service" value="chelsea"/>Chelsea <br />
+                <input type ="Checkbox" name="service" value="barca"/> <Barca />
+                <input type ="Checkbox" name="service" value="madrid"/>Madrid <br />
             </p>
             
-            <p>What device do you listen to music on <br />
+            <p>Your favourite musician <br />
                 <select name="devices"> <!--Drop Down List Control-->
-                    <option value="ipod">Ipod</option>
-                    <option value="radio">Radio</option>                     
-                    <option value="tv">TV</option>
-                    <option value="phone">Phone</option>
-                    <option value="computer">Computer</option>
-                    <option value="echo">Echo</option>
+                    <option value="tuface">Tuface</option>
+                    <option value="wizkid">Wizkid</option>                     
+                    <option value="obo">OBO</option>
+                    <option value="olamide">Olamide</option>
+                    <option value="dbanj">Dbanj</option>
+                    <option value="don jazz">Don jazz</option>
                     
                 </select>
             </p>
